@@ -1,0 +1,133 @@
+Author: masterrk2005 <sololearnh@gmail.com>
+Date:   Sun Jul 14 12:17:28 2024 +0530
+
+    file is updated
+
+commit 94711c6e138c5f3e9a63e731af95084320725468
+Author: masterrk2005 <sololearnh@gmail.com>
+Date:   Sun Jul 14 12:13:44 2024 +0530
+
+    index.html file is created
+
+commit 0f64596969e1206e1622c6e6250ce5d059af1e85
+Author: masterrk2005 <sololearnh@gmail.com>
+Date:   Sun Jul 14 11:17:53 2024 +0530
+
+    files are added
+
+commit 9b79dbb0c842a08eb58746cbc825d26438ade60a
+Author: masterrk2005 <sololearnh@gmail.com>
+Date:   Sun Jul 14 11:16:43 2024 +0530
+
+    index.js is now created
+
+commit 9dcd2fa3e6954504e77ff2be9fc14b524d4cf4ed
+Author: masterrk2005 <sololearnh@gmail.com>
+Date:   Sun Jul 14 11:14:34 2024 +0530
+
+    files are updated with code
+
+commit 211fc8295a6c8fdc606a0c5dc25a8ed7743c3360
+Author: masterrk2005 <sololearnh@gmail.com>
+Date:   Sun Jul 14 11:12:34 2024 +0530
+
+    file is added
+
+commit 39020644e7a0fc44a05c5dd48f2a782dd9d044db
+Merge: 8ca3657 e559cfa
+Author: masterrk2005 <sololearnh@gmail.com>
+Date:   Sun Jul 14 11:10:51 2024 +0530
+
+    Merge branch 'main' of https://www.github.com/masterrk2005/hello
+
+commit 8ca365706f75ee0368ca70d7a84564446aa8b133
+Author: masterrk2005 <sololearnh@gmail.com>
+Date:   Sun Jul 14 11:10:14 2024 +0530
+
+    hello.html is added
+
+commit e559cfa1a2a7a6277d2a4286a8336f6964f2774b
+Author: masterrk2005 <sololearnh@gmail.com>
+Date:   Sun Jul 14 11:03:39 2024 +0530
+
+    all files are exited returning 1
+
+commit 0039ad60bdca13de214e0122367301e57d5bbf70
+Author: Ravikiran Royyala <143505051+masterrk2005@users.noreply.github.com>
+Date:   Sun Jul 14 10:48:47 2024 +0530
+
+    file is changed from HTML to Python
+
+commit 90bba97136993025d0428b53abfb96cf91f8ed0b
+Author: masterrk2005 <sololearnh@gmail.com>
+Date:   Sun Jul 14 10:46:07 2024 +0530
+
+    the file is reverted
+
+commit fb70476113e46c8031c18e316f749cea45875032
+Author: masterrk2005 <sololearnh@gmail.com>
+Date:   Sun Jul 14 10:44:24 2024 +0530
+
+    merge conflict again fixed
+
+commit 811f5c7f9a351b9c010d53c586b381ea50321edb
+Merge: 75a3434 5b67d2d
+Author: masterrk2005 <sololearnh@gmail.com>
+Date:   Sun Jul 14 10:43:12 2024 +0530
+
+    merge conflict is again fixed
+
+commit 75a3434de6c673af4f059c845eeecec91176bb5b
+Author: masterrk2005 <sololearnh@gmail.com>
+Date:   Sun Jul 14 10:40:45 2024 +0530
+
+    repo is hard resetted
+
+commit 5b67d2dc4b6cd4033c3374ef938849f9bcfa6239
+Merge: a8515c0 2c9580a
+Author: masterrk2005 <sololearnh@gmail.com>
+Date:   Sun Jul 14 10:31:14 2024 +0530
+
+    merge conflict is fixed;
+
+commit 2c9580a7ee1f3884f90892a0e71df1969a8c4355
+Author: Ravikiran Royyala <143505051+masterrk2005@users.noreply.github.com>
+Date:   Sun Jul 14 10:28:23 2024 +0530
+
+    updated color from default to red
+
+commit a8515c0818acf47da28ee12c313d795fea36b617
+Author: masterrk2005 <sololearnh@gmail.com>
+Date:   Sun Jul 14 10:25:07 2024 +0530
+
+    main.html
+
+commit c4155d1ab8485e4645a64c711f545c0f18629664
+Author: Ravikiran Royyala <143505051+masterrk2005@users.noreply.github.com>
+Date:   Sun Jul 14 10:21:56 2024 +0530
+
+    literally changed thrice
+
+commit db07e2f7c5cc7d11a18e1b061b99882954bacdb8
+Author: masterrk2005 <sololearnh@gmail.com>
+Date:   Sun Jul 14 10:17:31 2024 +0530
+
+    the comment has been changed
+
+commit 3fff1da927bc651fca423d3760a1a5d3ef47ebce
+Author: masterrk2005 <sololearnh@gmail.com>
+Date:   Sun Jul 14 10:14:04 2024 +0530
+
+    new lines are added
+
+commit f5a0684d58b452185da37a2cc80b268c76a9a874
+Author: masterrk2005 <sololearnh@gmail.com>
+Date:   Sun Jul 14 10:13:41 2024 +0530
+
+    new lines are added
+
+commit 58847e2896d60dff31b56c35537b0eac6eeaee41
+Author: Ravikiran Royyala <143505051+masterrk2005@users.noreply.github.com>
+Date:   Sun Jul 14 09:58:21 2024 +0530
+
+    Create index.html
